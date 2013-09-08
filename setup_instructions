@@ -1,0 +1,5 @@
+install python
+install eclipse
+install pydev (through eclipse marketplace)
+setup pydev (as per instructions on pydev.org/‎ )
+install pyusb ( as per http://zombiebrainzjuice.cc/pyusb-install-on-ubuntu-homework/ )
